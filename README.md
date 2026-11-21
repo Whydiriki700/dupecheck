@@ -1,3 +1,5 @@
+![dupecheck](assets/preview.png)
+
 # dupecheck
 
 Your disk is full and you do not know why. dupecheck finds the duplicate
